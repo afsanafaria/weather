@@ -20,12 +20,6 @@ export class GoogleMap extends Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: "AIzaSyBwkxmQDZY8pTNOFxwcbUvXzwD3umtiVYM"
+    apiKey: ""
 })(GoogleMap)
 
-
-
-//browser key :   AIzaSyBErOKkg6t401YiBbMyAdIzrJvSy2mW19c
-//web client key:  583041124755-nsa88d34brokvo0li3016jsn6n5ra9rb.apps.googleusercontent.com
-
-//map-google :   AIzaSyBwkxmQDZY8pTNOFxwcbUvXzwD3umtiVYM
